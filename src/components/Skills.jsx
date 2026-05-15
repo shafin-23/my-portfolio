@@ -10,7 +10,7 @@ const Skills = () => {
   return (
     <section
       id="skills"
-      className="py-20 bg-transparent scroll-mt-24"
+      className="py-20 px-6 bg-transparent scroll-mt-24"
     >
 
       {/* TITLE */}

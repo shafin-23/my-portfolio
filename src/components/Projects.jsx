@@ -71,13 +71,13 @@ const Projects = () => {
         <h2 className="text-5xl font-bold">My Projects</h2>
         <div className="w-20 h-1 bg-green-400 mx-auto mt-3 rounded-full"></div>
 
-        <p className="text-gray-400 mt-4 text-lg">
+        <p className="px-4 text-gray-400 mt-4 text-lg">
           AI, Robotics, Research & Web Development Projects
         </p>
       </div>
 
       {/* Grid */}
-      <div className="grid lg:grid-cols-3 md:grid-cols-2 gap-8 max-w-7xl mx-auto">
+      <div className="px-6 grid lg:grid-cols-3 md:grid-cols-2 gap-8 max-w-7xl mx-auto">
         {projects.map((project, index) => (
           <motion.a
             key={index}

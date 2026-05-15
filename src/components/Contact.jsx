@@ -208,7 +208,7 @@ const Contact = () => {
 
               {/* LINKEDIN */}
               <a
-                href="https://linkedin.com/"
+                href="https://www.linkedin.com/in/md-shafin-shadman-44216a40a/"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="flex items-center gap-3 bg-black/30 border border-white/10 hover:border-green-400 px-5 py-3 rounded-xl text-gray-300 hover:text-green-400 transition-all duration-300"
