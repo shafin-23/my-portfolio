@@ -12,12 +12,12 @@ const Skills = () => {
       id="skills"
       className="py-20 px-6 bg-transparent scroll-mt-24"
     >
-
       {/* TITLE */}
       <div className="text-center mb-20">
         <h2 className="text-5xl font-bold">
           Skills & Expertise
         </h2>
+
         <div className="w-20 h-1 bg-green-400 mx-auto mt-3 rounded-full"></div>
 
         <p className="text-gray-400 mt-4">
@@ -44,7 +44,7 @@ const Skills = () => {
             ].map((item, i) => (
               <span
                 key={i}
-                className="px-4 py-2 bg-zinc-900 border border-white/10 rounded-full text-sm hover:border-green-400 transition"
+                className="px-4 py-2 bg-zinc-900 border border-white/10 rounded-full text-sm transition"
               >
                 {item}
               </span>
@@ -62,7 +62,7 @@ const Skills = () => {
             {["C / C++", "JavaScript", "Python"].map((item, i) => (
               <span
                 key={i}
-                className="px-4 py-2 bg-zinc-900 border border-white/10 rounded-full text-sm hover:border-green-400 transition"
+                className="px-4 py-2 bg-zinc-900 border border-white/10 rounded-full text-sm transition"
               >
                 {item}
               </span>
@@ -88,7 +88,7 @@ const Skills = () => {
             ].map((item, i) => (
               <span
                 key={i}
-                className="px-4 py-2 bg-zinc-900 border border-white/10 rounded-full text-sm hover:border-green-400 transition"
+                className="px-4 py-2 bg-zinc-900 border border-white/10 rounded-full text-sm transition"
               >
                 {item}
               </span>
@@ -114,7 +114,7 @@ const Skills = () => {
             ].map((item, i) => (
               <span
                 key={i}
-                className="px-4 py-2 bg-zinc-900 border border-white/10 rounded-full text-sm hover:border-green-400 transition"
+                className="px-4 py-2 bg-zinc-900 border border-white/10 rounded-full text-sm transition"
               >
                 {item}
               </span>
@@ -122,14 +122,13 @@ const Skills = () => {
           </div>
         </div>
 
-        {/* TOOLS & TECHNOLOGIES (FIXED) */}
+        {/* TOOLS & TECHNOLOGIES */}
         <div>
           <h3 className="text-2xl font-semibold text-green-400 mb-8">
             Tools & Technologies
           </h3>
 
           <div className="grid grid-cols-2 md:grid-cols-5 gap-10">
-
             {[
               { name: "Figma", img: figmaLogo },
               { name: "Git & GitHub", img: githubLogo },
@@ -153,7 +152,6 @@ const Skills = () => {
                 </p>
               </motion.div>
             ))}
-
           </div>
         </div>
 

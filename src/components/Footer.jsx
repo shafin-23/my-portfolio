@@ -25,7 +25,7 @@ const Footer = () => {
         <div className="flex gap-6 text-2xl">
 
           <a
-            href="https://github.com/"
+            href="https://github.com/shafin-23"
             target="_blank"
             rel="noopener noreferrer"
             className="hover:text-green-400 transition"
@@ -34,7 +34,7 @@ const Footer = () => {
           </a>
 
           <a
-            href="https://linkedin.com/"
+            href="https://www.linkedin.com/in/md-shafin-shadman-44216a40a/"
             target="_blank"
             rel="noopener noreferrer"
             className="hover:text-green-400 transition"
@@ -43,7 +43,7 @@ const Footer = () => {
           </a>
 
           <a
-            href="https://facebook.com/"
+            href="https://www.facebook.com/share/1Btdaabvoz/"
             target="_blank"
             rel="noopener noreferrer"
             className="hover:text-green-400 transition"

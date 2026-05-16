@@ -43,7 +43,7 @@ const Experience = () => {
 
             {/* TIME */}
             <span className="text-sm text-gray-400">
-              2023 – Present
+              2022 – Present
             </span>
 
           </div>

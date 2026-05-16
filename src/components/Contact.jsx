@@ -230,7 +230,7 @@ const Contact = () => {
 
               {/* INSTAGRAM */}
               <a
-                href="https://instagram.com/"
+                href="https://www.instagram.com/_mr.exotic_23?igsh=MXFmZWpyc2N2bjFzeA%3D%3D&utm_source=qr"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="flex items-center gap-3 bg-black/30 border border-white/10 hover:border-green-400 px-5 py-3 rounded-xl text-gray-300 hover:text-green-400 transition-all duration-300"
