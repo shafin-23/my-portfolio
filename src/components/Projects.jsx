@@ -38,7 +38,7 @@ const projects = [
   {
     title: "SebaChakra Service Platform",
     image: sebachakra,
-    link: "https://drive.google.com/",
+    link: "https://drive.google.com/file/d/1IEn2z3O1fU_McIr5aa4p3BCH3SOw3HJO/view?usp=sharing",
   },
   {
     title: "Bengali Depression Detection using Transfer Learning",
