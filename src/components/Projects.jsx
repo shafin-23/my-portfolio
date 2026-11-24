@@ -11,6 +11,8 @@ import agriRover from "../assets/agriRover.jpg";
 import sentimentAnalysis from "../assets/sentiment-analysis.jpg";
 import sebachakra from "../assets/sebachakra.jpg";
 import bengaliDip from "../assets/bengali_dep.png";
+import surveyNova from "../assets/surveyNova.png";
+import ids_iot from "../assets/ids_green.png"
 
 // ===== Demo Images =====
 import demo1 from "../assets/demo1.jpg";
@@ -19,6 +21,12 @@ import demo3 from "../assets/demo3.jpg";
 import demo4 from "../assets/demo4.jpg";
 
 const projects = [
+  {
+  title: "SurveyNova AI",
+  category: "Web Application + AI",
+  image: surveyNova,
+  link: "https://survey-nova-seven.vercel.app/",
+},
   {
     title: "Barcode Product Sorting",
     category: "AI + Automation",
@@ -51,7 +59,7 @@ const projects = [
     title: "SebaChakra Service Platform",
     category: "Full Stack Web App",
     image: sebachakra,
-    link: "https://drive.google.com/",
+    link: "https://drive.google.com/file/d/1IEn2z3O1fU_McIr5aa4p3BCH3SOw3HJO/view?usp=sharing",
   },
 
   {
@@ -62,24 +70,10 @@ const projects = [
   },
 
   {
-    title: "Smart Traffic Monitoring",
-    category: "Computer Vision",
-    image: demo2,
-    link: "https://drive.google.com/",
-  },
-
-  {
-    title: "E-Commerce Web App",
-    category: "React + Node.js",
-    image: demo3,
-    link: "https://drive.google.com/",
-  },
-
-  {
     title: "IoT Home Automation",
     category: "Embedded System",
-    image: demo4,
-    link: "https://drive.google.com/",
+    image: ids_iot,
+    link: "https://drive.google.com/file/d/1rwEFnLLRNqYdqM179T3j3dm6CBh2-TFH/view?usp=sharing",
   },
 ];
 
@@ -148,10 +142,10 @@ const Projects = () => {
 
             {/* ===== CONTENT ===== */}
             <div className="absolute bottom-0 left-0 p-6 w-full">
-              {/* CATEGORY */}
+              {/* CATEGORY
               <span className="inline-block text-xs uppercase tracking-widest text-green-400 bg-green-500/10 px-3 py-1 rounded-full mb-4 border border-green-500/20">
                 {project.category}
-              </span>
+              </span> */}
 
               {/* TITLE */}
               <h3 className="text-2xl font-bold text-white leading-snug">

@@ -215,7 +215,7 @@ const Contact = () => {
             <div className="flex flex-wrap gap-4">
               {/* GITHUB */}
               <a
-                href="https://github.com/"
+                href="https://github.com/shafin-23"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="flex items-center gap-3 bg-black/30 border border-white/10 hover:border-green-400 px-5 py-3 rounded-xl text-gray-300 hover:text-green-400 transition-all duration-300"
@@ -226,7 +226,7 @@ const Contact = () => {
 
               {/* LINKEDIN */}
               <a
-                href="https://linkedin.com/"
+                href="https://www.linkedin.com/in/md-shafin-shadman/"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="flex items-center gap-3 bg-black/30 border border-white/10 hover:border-green-400 px-5 py-3 rounded-xl text-gray-300 hover:text-green-400 transition-all duration-300"
@@ -237,7 +237,7 @@ const Contact = () => {
 
               {/* FACEBOOK */}
               <a
-                href="https://facebook.com/"
+                href="https://www.facebook.com/md.shafin.shadman/"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="flex items-center gap-3 bg-black/30 border border-white/10 hover:border-green-400 px-5 py-3 rounded-xl text-gray-300 hover:text-green-400 transition-all duration-300"
@@ -248,7 +248,7 @@ const Contact = () => {
 
               {/* INSTAGRAM */}
               <a
-                href="https://instagram.com/"
+                href="https://www.instagram.com/_mr.exotic_23"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="flex items-center gap-3 bg-black/30 border border-white/10 hover:border-green-400 px-5 py-3 rounded-xl text-gray-300 hover:text-green-400 transition-all duration-300"

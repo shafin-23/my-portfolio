@@ -44,7 +44,7 @@ const Skills = () => {
             ].map((item, i) => (
               <span
                 key={i}
-                className="px-4 py-2 bg-zinc-900 border border-white/10 rounded-full text-sm hover:border-green-400 transition"
+                className="px-4 py-2 bg-zinc-900 border border-white/10 rounded-full text-sm "
               >
                 {item}
               </span>
@@ -62,7 +62,7 @@ const Skills = () => {
             {["C / C++", "JavaScript", "Python"].map((item, i) => (
               <span
                 key={i}
-                className="px-4 py-2 bg-zinc-900 border border-white/10 rounded-full text-sm hover:border-green-400 transition"
+                className="px-4 py-2 bg-zinc-900 border border-white/10 rounded-full text-sm "
               >
                 {item}
               </span>
@@ -88,7 +88,7 @@ const Skills = () => {
             ].map((item, i) => (
               <span
                 key={i}
-                className="px-4 py-2 bg-zinc-900 border border-white/10 rounded-full text-sm hover:border-green-400 transition"
+                className="px-4 py-2 bg-zinc-900 border border-white/10 rounded-full text-sm "
               >
                 {item}
               </span>
@@ -114,7 +114,7 @@ const Skills = () => {
             ].map((item, i) => (
               <span
                 key={i}
-                className="px-4 py-2 bg-zinc-900 border border-white/10 rounded-full text-sm hover:border-green-400 transition"
+                className="px-4 py-2 bg-zinc-900 border border-white/10 rounded-full text-sm "
               >
                 {item}
               </span>

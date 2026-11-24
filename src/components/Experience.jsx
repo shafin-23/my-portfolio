@@ -43,7 +43,7 @@ const Experience = () => {
 
             {/* TIME */}
             <span className="text-sm text-gray-400">
-              2023 – Present
+              2022 – 2024
             </span>
 
           </div>
@@ -70,7 +70,7 @@ const Experience = () => {
             ].map((item, i) => (
               <span
                 key={i}
-                className="px-4 py-2 bg-black/30 border border-white/10 rounded-full text-sm hover:border-green-400 transition"
+                className="px-4 py-2 bg-black/30 border border-white/10 rounded-full text-sm "
               >
                 {item}
               </span>

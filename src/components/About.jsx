@@ -11,7 +11,7 @@ const About = () => {
       type: "University",
       institution: "United International University",
       degree: "B.Sc. in Computer Science and Engineering",
-      period: "2022 – Present",
+      period: "2022 – 2026",
       icon: <FaUniversity />,
     },
 
@@ -65,23 +65,17 @@ const About = () => {
       >
         <div className="bg-white/5 backdrop-blur-xl border border-white/10 rounded-3xl p-8 md:p-10 shadow-2xl hover:border-green-400/40 transition duration-500">
           <p className="text-gray-300 text-lg leading-relaxed mb-6">
-            I am a passionate Computer Science & Engineering student focused on
-            building modern web applications and intelligent AI-driven systems.
-            I enjoy transforming innovative ideas into impactful digital
-            solutions through clean design and efficient development.
+           I am a Computer Science & Engineering graduate passionate about building modern web and 
+           mobile applications and AI-driven solutions. 
+           I enjoy transforming innovative ideas into practical digital 
+           products through clean code, creative thinking, and efficient development.
           </p>
 
           <p className="text-gray-300 text-lg leading-relaxed mb-6">
-            My expertise includes React.js, Node.js, Machine Learning, NLP,
-            Artificial Intelligence, UI/UX Design, and IoT-based systems. I am
-            constantly exploring new technologies and improving my problem
-            solving skills.
+            I am always eager to explore new technologies, solve real-world problems, 
+            collaborate on impactful projects, and grow as a Software Engineer.
           </p>
 
-          <p className="text-gray-300 text-lg leading-relaxed">
-            Currently, I am seeking opportunities where I can contribute,
-            collaborate, and grow as a software engineer and AI researcher.
-          </p>
         </div>
       </motion.div>
 
