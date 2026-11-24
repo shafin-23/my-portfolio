@@ -124,7 +124,7 @@ const Hero = () => {
           className="mt-8"
         >
           <a
-            href="https://drive.google.com/file/d/1Sfwarj_20P7ZfUAPTDtJDqZY5hbYjPiY/view?usp=sharing"
+            href="https://drive.google.com/file/d/1otfGgz2_TiN6LJty0Pv6c8GaF0nZzQ8l/view?usp=sharing"
             target="_blank"
             rel="noopener noreferrer"
             className="inline-block bg-green-500 hover:bg-green-600 text-white px-6 py-3 rounded-lg font-semibold transition"
